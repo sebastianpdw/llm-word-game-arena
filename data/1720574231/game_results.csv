@@ -1,0 +1,175 @@
+experiment_number,winner,reason
+1,Model B,"A disqualified: Lion  
+
+
+
+Disqualified Repeted animal."
+2,Model B,A disqualified: Disqualified Repeat animal.
+3,Model A,B disqualified: Disqualified No animal name.
+4,Model A,B disqualified: Disqualified repeated animal.
+5,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+6,No winner,No conclusion
+7,Model B,A disqualified: Disqualified Repetiton.
+8,Model A,B disqualified: Disqualified repeated animal.
+9,Model A,B disqualified: Disqualified Repeated animal.
+10,Model A,B disqualified: Disqualified repeated animal.
+11,Model B,"A disqualified: Hornet  
+
+Disqualified - Not an animal."
+12,Model B,A disqualified: Disqualified Repeted animal.
+13,Model B,A disqualified: Disqualified Invalid animal name.
+14,Model A,B disqualified: Disqualified repeated animal.
+15,Model B,"A disqualified: Antler 
+
+
+
+Disqualified -  Not an animal."
+16,Model B,A disqualified: Disqualified Repeated animal.
+17,Model A,B disqualified: Disqualified Repeat animal.
+18,Model A,B disqualified: Disqualified repeated animal.
+19,Model A,B disqualified: Disqualified repeated animal.
+20,Model A,B disqualified: Disqualified repeated animal.
+21,Model A,"B disqualified: Tapeworm (Disqualified, as Tapeworm is not an animal)"
+22,Model B,A disqualified: Disqualified Repetitive animal.
+23,Model A,B disqualified: Disqualified repeated animal.
+24,Model A,B disqualified: Disqualified repeated animal.
+25,Model B,A disqualified: Disqualified Repetitive animal.
+26,Model A,B disqualified: Disqualified repeated animal.
+27,Model A,B disqualified: Disqualified repeated animal.
+28,Model B,"A disqualified: Tiger  
+Disqualified: Repeating an animal."
+29,Model A,B forfeited
+30,Model A,B disqualified: Disqualified duplicate animal.
+31,Model B,A disqualified: Disqualified Repetitive animal.
+32,Model A,B disqualified: Disqualified repeated animal.
+33,Model A,B disqualified: Disqualified repeated animal.
+34,Model A,B disqualified: Disqualified Repeat animal.
+35,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified - Repeating an animal."
+36,Model A,B disqualified: Disqualified Repeat animal.
+37,Model B,"A disqualified: Lion 
+
+
+Disqualified [Repeating an animal]."
+38,Model B,"A disqualified: Noodle  
+
+
+
+Disqualified: Made up animal"
+39,Model A,B disqualified: Disqualified Not an animal.
+40,Model A,B response too long (so not an animal)
+41,Model A,B disqualified: Disqualified repeated animal.
+42,Model B,A disqualified: Disqualified Repetitive animal.
+43,Model A,B disqualified: Disqualified repeated animal.
+44,Model A,B disqualified: Disqualified Repeat animal.
+45,Model A,B disqualified: Disqualified repeated animal.
+46,Model A,B disqualified: Disqualified Already mentioned.
+47,Model B,A disqualified: Disqualified Repeted animal.
+48,Model B,A disqualified: Lion  Disqualified [Repeated animal]
+49,Model A,B disqualified: Disqualified repeated animal.
+50,Model A,B disqualified: Disqualified Rule broken: Lion was already mentioned earlier.
+51,Model A,B disqualified: Disqualified Repeat animal.
+52,Model B,"A disqualified: Disqualified Repetitive animal.  
+
+
+
+Let's play again! What animal starts with E? 😊"
+53,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+54,Model A,B disqualified: Disqualified repeated animal.
+55,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified: Repetition of animal."
+56,Model A,B response too long (so not an animal)
+57,Model A,B disqualified: Disqualified repeated animal name.
+58,Model A,B disqualified: Disqualified Same animal mentioned before.
+59,Model B,A disqualified: Disqualified [Animal name cannot start with the last letter of the previous animal]
+60,Model A,B disqualified: Disqualified repeated animal.
+61,Model A,B disqualified: Disqualified cannot repeat an animal that has already been mentioned.
+62,Model A,"B disqualified: Apricot (Disqualified reason: Apricot is not an animal, it's a fruit)"
+63,Model A,B disqualified: Disqualified repeated animal.
+64,Model A,B disqualified: Disqualified Repeat animal.
+65,Model A,B disqualified: Disqualified repeated animal.
+66,Model A,B disqualified: Disqualified repeated animal.
+67,Model A,B disqualified: Disqualified Repeat animal.
+68,Model A,B disqualified: Disqualified Repeat animal.
+69,Model A,B disqualified: Disqualified repeated animal.
+70,Model A,B disqualified: Disqualified repeated animal.
+71,Model B,A disqualified: Disqualified: Repeating an animal.
+72,Model A,B disqualified: Disqualified Unrecognized animal name.
+73,Model A,B disqualified: Disqualified repeated animal.
+74,Model A,B disqualified: Disqualified repeated animal.
+75,Model B,"A disqualified: Review 
+
+
+
+Disqualified - Not an animal."
+76,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified (Repeat animal)"
+77,Model B,"A disqualified: Elephant 
+
+
+
+Disqualified: Repetition of animal."
+78,Model B,A disqualified: Disqualified [Invalid animal name]
+79,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified - Repeat animal."
+80,Model A,B disqualified: Disqualified repeated animal.
+81,Model A,B disqualified: Disqualified Repeated animal.
+82,Model A,B disqualified: Disqualified Repeated animal.
+83,Model A,B disqualified: Disqualified duplicate animal.
+84,Model B,"A disqualified: Disqualified  (Animal already mentioned) 
+
+
+
+Let me know if you want to play again! 😊"
+85,Model B,"A disqualified: Disqualified [Invalid animal name] 
+
+
+
+Let's keep it to real animals! 😄  Would you like to start again?"
+86,Model A,B disqualified: Disqualified same animal already mentioned.
+87,Model B,A disqualified: Disqualified Repeted animal.
+88,Model A,B disqualified: Disqualified repeated animal.
+89,Model B,"A disqualified: Salamander 
+
+
+
+Disqualified Repeted animal."
+90,Model A,B disqualified: Disqualified repeated animal.
+91,Model A,"B disqualified: Tapeworm (Disqualified The game is for animals, not parasites.)"
+92,Model A,B disqualified: Disqualified repeated animal.
+93,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+94,Model B,A disqualified: Disqualified Repeat animal.
+95,Model B,A disqualified: Disqualified Repetitive animal.
+96,Model B,"A disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+97,Model B,A disqualified: Disqualified Repetitive animal.
+98,Model A,B disqualified: Disqualified repeated animal.
+99,Model A,B response too long (so not an animal)
+100,Model B,A disqualified: Disqualified Repetitive animal.

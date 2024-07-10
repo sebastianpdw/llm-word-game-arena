@@ -1,0 +1,165 @@
+experiment_number,winner,reason
+1,Model B,A disqualified: Disqualified repeated animal.
+2,Model B,A forfeited
+3,Model A,B disqualified: Nocturnal  Disqualified [Animal names must start with the last letter of the previous animal.]
+4,Model B,A disqualified: Disqualified repeating an animal.
+5,Model A,"B disqualified: Antlered  disqualified [Repeated animal mentioned] 
+
+
+Let's play again!  😊"
+6,Model B,A disqualified: Disqualified Repeat animal.
+7,Model B,A disqualified: Disqualified repeated animal.
+8,Model A,"B disqualified: Neptune 
+
+Disqualified  [Not an animal]"
+9,Model B,A disqualified: Disqualified repeated animal.
+10,Model A,"B disqualified: Elephant 
+
+
+
+Disqualified: Repeated word."
+11,Model B,A disqualified: Disqualified repeated animal.
+12,Model A,"B disqualified: Disqualified [Animal names must be common animals, not scientific or fictional names]."
+13,Model B,A disqualified: Disqualified Repeated animal.
+14,Model B,A disqualified: Disqualified repeat animal.
+15,Model B,A disqualified: Disqualified same animal was mentioned earlier.
+16,Model B,A response too long (so not an animal)
+17,Model B,A disqualified: Disqualified repeat animal.
+18,Model B,A disqualified: Disqualified repeated animal.
+19,Model A,"B disqualified: Elephant 
+
+
+
+Disqualified: Repetition."
+20,Model A,B disqualified: Disqualified [Repeating an animal].
+21,Model B,A response too long (so not an animal)
+22,Model B,A disqualified: Disqualified repeated animal.
+23,Model A,B disqualified: Disqualified [Invalid animal name]
+24,Model B,A response too long (so not an animal)
+25,Model B,A response too long (so not an animal)
+26,Model B,A disqualified: Tapir (Disqualified - repeated animal)
+27,Model B,A disqualified: Disqualified Repeating an animal that has already been mentioned.
+28,Model A,B disqualified: Disqualified Repetitive animal.
+29,Model A,"B disqualified: Elephant 
+
+
+
+Disqualified  - Repeat animal."
+30,Model B,A disqualified: Disqualified Repeated animal.
+31,Model A,"B disqualified: Disqualified [Invalid animal name] 
+
+
+Let me know if you'd like to play again! 😄"
+32,Model B,A disqualified: Disqualified invalid animal name.
+33,Model B,A response too long (so not an animal)
+34,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified: Repetition of animal."
+35,Model B,A response too long (so not an animal)
+36,Model B,A disqualified: Disqualified repeated animal.
+37,Model B,A disqualified: Disqualified repeat animal.
+38,Model B,A response too long (so not an animal)
+39,Model B,A disqualified: Disqualified Rule broken: Snake was already mentioned earlier.
+40,Model B,A response too long (so not an animal)
+41,Model B,A response too long (so not an animal)
+42,Model B,A disqualified: Disqualified repeated animal.
+43,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified Repeat animal."
+44,Model B,A response too long (so not an animal)
+45,Model A,"B disqualified: Nocturnal 
+
+
+
+Disqualified.  Not an animal."
+46,Model B,A disqualified: Disqualified repeated animal.
+47,Model A,"B disqualified: Australia 
+
+Disqualified: Not an animal."
+48,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+49,Model B,A disqualified: Disqualified repeating an animal that has already been mentioned.
+50,Model B,A response too long (so not an animal)
+51,Model B,A disqualified: Disqualified previous animal has already been mentioned.
+52,Model A,B disqualified: Disqualified [Animal already mentioned].
+53,Model A,B disqualified: Disqualified Repetitive animal.
+54,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified (Repetition)"
+55,Model A,B disqualified: Disqualified Repetitive animal.
+56,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+57,Model B,A disqualified: Disqualified Repeat animal.
+58,Model B,A disqualified: Disqualified repeated animal.
+59,Model B,A disqualified: Disqualified repeated animal.
+60,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified: Repeated animal."
+61,Model B,A disqualified: Disqualified repeated animal.
+62,Model A,B disqualified: Disqualified: Animal repetition.
+63,Model B,A response too long (so not an animal)
+64,Model B,A disqualified: Disqualified Repeat animal.
+65,Model B,A response too long (so not an animal)
+66,Model B,A disqualified: Disqualified Rule broken: Ape has already been mentioned.
+67,Model B,A disqualified: Disqualified repeat animal.
+68,Model A,B disqualified: Disqualified Repeated animal.
+69,Model B,A disqualified: Disqualified Rule break: You repeated an animal that has already been mentioned.
+70,Model B,A disqualified: Disqualified Rule broken: cannot repeat an animal that has already been mentioned.
+71,Model B,A response too long (so not an animal)
+72,Model B,A disqualified: Disqualified repeated animal.
+73,Model B,A disqualified: Disqualified previous animal already mentioned.
+74,Model A,B disqualified: Disqualified  Repeating an animal.
+75,Model B,A disqualified: Disqualified repeated animal.
+76,Model B,A disqualified: Eel (Disqualified duplicate animal)
+77,Model A,"B disqualified: Tiger 
+
+
+
+Disqualified: Repetition."
+78,Model B,A response too long (so not an animal)
+79,Model A,B disqualified: Disqualified [Invalid animal name]
+80,Model B,A disqualified: Disqualified Previous animal already mentioned.
+81,Model B,A disqualified: Disqualified repeated animal.
+82,Model A,B disqualified: Disqualified Repeted animal.
+83,Model B,A disqualified: Disqualified same animal mentioned earlier.
+84,Model B,A disqualified: Disqualified You already mentioned Aardvark earlier in the game.
+85,Model A,"B disqualified: Elephant 
+
+
+
+Disqualified (Repeated animal)"
+86,Model B,A disqualified: Disqualified repeated animal.
+87,Model A,B disqualified: Disqualified Repetitive animal.
+88,Model B,A disqualified: Disqualified You already mentioned Elephant earlier in the game.
+89,Model A,"B disqualified: Elephant 
+
+
+
+Disqualified: Repetition."
+90,Model A,B disqualified: Disqualified: Repeating an animal.
+91,Model B,A disqualified: Disqualified repeated animal.
+92,Model B,A disqualified: Disqualified Same animal has already been mentioned.
+93,Model B,A disqualified: Disqualified Repeat animal.
+94,Model B,A disqualified: Disqualified repeat animal
+95,Model B,A response too long (so not an animal)
+96,Model B,A disqualified: Disqualified Previous animal already mentioned.
+97,Model B,A disqualified: Disqualified repeat animal.
+98,Model B,A response too long (so not an animal)
+99,Model B,A response too long (so not an animal)
+100,Model A,"B disqualified: Axolotl 
+
+Disqualified (Animal already mentioned)"
