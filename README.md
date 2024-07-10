@@ -1,8 +1,8 @@
 # LLM Word Game Arena
  
 ### Prerequisites
-1. Python
-2. Ollama
+1. [Python](https://www.python.org/downloads/)
+2. [Ollama](https://github.com/ollama/ollama/tree/main)
 
 ### Instructions
 1. Clone the repository
