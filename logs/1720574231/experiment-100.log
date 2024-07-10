@@ -1,0 +1,24 @@
+2024-07-10 09:31:14.204 | INFO     | __main__:run_experiments:170 - Running experiment 100
+2024-07-10 09:31:14.210 | DEBUG    | __main__:run_experiments:171 - Models: llama3:8b-instruct-q8_0 vs gemma2:9b-instruct-q8_0
+2024-07-10 09:31:14.215 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 09:31:14.218 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720574231/game_results.csv
+2024-07-10 09:31:14.221 | DEBUG    | __main__:run_experiment:91 - 100-0-A:  Giraffe
+2024-07-10 09:31:14.829 | DEBUG    | __main__:run_experiment:116 - 100-1-A:  Echidna
+2024-07-10 09:31:15.266 | DEBUG    | __main__:run_experiment:116 - 100-2-B:  Antlion
+2024-07-10 09:31:15.673 | DEBUG    | __main__:run_experiment:116 - 100-3-A:  Narwhal
+2024-07-10 09:31:16.105 | DEBUG    | __main__:run_experiment:116 - 100-4-B:  Lion
+2024-07-10 09:31:16.443 | DEBUG    | __main__:run_experiment:116 - 100-5-A:  Numbat
+2024-07-10 09:31:16.876 | DEBUG    | __main__:run_experiment:116 - 100-6-B:  Tiger
+2024-07-10 09:31:17.280 | DEBUG    | __main__:run_experiment:116 - 100-7-A:  Rattlesnake
+2024-07-10 09:31:17.714 | DEBUG    | __main__:run_experiment:116 - 100-8-B:  Elephant
+2024-07-10 09:31:17.992 | DEBUG    | __main__:run_experiment:116 - 100-9-A:  Tapir
+2024-07-10 09:31:18.423 | DEBUG    | __main__:run_experiment:116 - 100-10-B:  Robin
+2024-07-10 09:31:18.764 | DEBUG    | __main__:run_experiment:116 - 100-11-A:  Nightingale
+2024-07-10 09:31:19.198 | DEBUG    | __main__:run_experiment:116 - 100-12-B:  Eagle
+2024-07-10 09:31:19.476 | DEBUG    | __main__:run_experiment:116 - 100-13-A:  Eel
+2024-07-10 09:31:19.908 | DEBUG    | __main__:run_experiment:116 - 100-14-B:  Leopard
+2024-07-10 09:31:20.190 | DEBUG    | __main__:run_experiment:116 - 100-15-A:  Dingo
+2024-07-10 09:31:20.703 | DEBUG    | __main__:run_experiment:116 - 100-16-B:  Orangutan
+2024-07-10 09:31:21.046 | DEBUG    | __main__:run_experiment:116 - 100-17-A:  Numbat
+2024-07-10 09:31:21.884 | DEBUG    | __main__:run_experiment:116 - 100-18-B:  Disqualified Repetitive animal.
+2024-07-10 09:31:21.894 | INFO     | __main__:run_experiment:128 - Experiment 100: Winner: Model B - A disqualified: Disqualified Repetitive animal.

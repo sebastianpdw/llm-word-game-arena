@@ -1,0 +1,27 @@
+2024-07-10 10:48:46.036 | INFO     | __main__:run_experiments:170 - Running experiment 100
+2024-07-10 10:48:46.038 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:46.040 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:46.042 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:46.044 | DEBUG    | __main__:run_experiment:91 - 100-0-A:  Giraffe
+2024-07-10 10:48:46.417 | DEBUG    | __main__:run_experiment:116 - 100-1-A:  Eagle
+2024-07-10 10:48:46.907 | DEBUG    | __main__:run_experiment:116 - 100-2-B:  Eel
+2024-07-10 10:48:47.344 | DEBUG    | __main__:run_experiment:116 - 100-3-A:  Lion
+2024-07-10 10:48:47.757 | DEBUG    | __main__:run_experiment:116 - 100-4-B:  Narwhal
+2024-07-10 10:48:48.191 | DEBUG    | __main__:run_experiment:116 - 100-5-A:  Llama
+2024-07-10 10:48:48.598 | DEBUG    | __main__:run_experiment:116 - 100-6-B:  Aardvark
+2024-07-10 10:48:49.034 | DEBUG    | __main__:run_experiment:116 - 100-7-A:  Koala
+2024-07-10 10:48:49.516 | DEBUG    | __main__:run_experiment:116 - 100-8-B:  Axiolotl
+2024-07-10 10:48:49.952 | DEBUG    | __main__:run_experiment:116 - 100-9-A:  Tiger
+2024-07-10 10:48:50.367 | DEBUG    | __main__:run_experiment:116 - 100-10-B:  Rattlesnake
+2024-07-10 10:48:50.805 | DEBUG    | __main__:run_experiment:116 - 100-11-A:  Elephant
+2024-07-10 10:48:51.086 | DEBUG    | __main__:run_experiment:116 - 100-12-B:  Tapir
+2024-07-10 10:48:51.605 | DEBUG    | __main__:run_experiment:116 - 100-13-A:  Rooster
+2024-07-10 10:48:52.018 | DEBUG    | __main__:run_experiment:116 - 100-14-B:  Rhinoceros
+2024-07-10 10:48:52.460 | DEBUG    | __main__:run_experiment:116 - 100-15-A:  Snake
+2024-07-10 10:48:52.877 | DEBUG    | __main__:run_experiment:116 - 100-16-B:  Echidna
+2024-07-10 10:48:54.253 | DEBUG    | __main__:run_experiment:116 - 100-17-A:  Axolotl 
+
+Disqualified (Animal already mentioned)
+2024-07-10 10:48:54.261 | INFO     | __main__:run_experiment:128 - Experiment 100: Winner: Model A - B disqualified: Axolotl 
+
+Disqualified (Animal already mentioned)

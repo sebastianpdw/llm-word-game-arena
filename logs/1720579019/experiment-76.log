@@ -1,0 +1,588 @@
+2024-07-10 10:45:56.837 | INFO     | __main__:run_experiments:170 - Running experiment 76
+2024-07-10 10:45:56.840 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:45:56.841 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:45:56.843 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:45:56.845 | DEBUG    | __main__:run_experiment:91 - 76-0-A:  Giraffe
+2024-07-10 10:45:57.211 | DEBUG    | __main__:run_experiment:116 - 76-1-A:  Elephant
+2024-07-10 10:45:57.429 | DEBUG    | __main__:run_experiment:116 - 76-2-B:  Tapir
+2024-07-10 10:45:57.934 | DEBUG    | __main__:run_experiment:116 - 76-3-A:  Rhinoceros
+2024-07-10 10:45:58.274 | DEBUG    | __main__:run_experiment:116 - 76-4-B:  Salamander
+2024-07-10 10:45:58.800 | DEBUG    | __main__:run_experiment:116 - 76-5-A:  Raccoon
+2024-07-10 10:45:59.203 | DEBUG    | __main__:run_experiment:116 - 76-6-B:  Narwhal
+2024-07-10 10:45:59.631 | DEBUG    | __main__:run_experiment:116 - 76-7-A:  Lion
+2024-07-10 10:45:59.970 | DEBUG    | __main__:run_experiment:116 - 76-8-B:  Nightingale
+2024-07-10 10:46:00.398 | DEBUG    | __main__:run_experiment:116 - 76-9-A:  Eagle
+2024-07-10 10:46:00.803 | DEBUG    | __main__:run_experiment:116 - 76-10-B:  Echidna
+2024-07-10 10:46:01.397 | DEBUG    | __main__:run_experiment:116 - 76-11-A:  Aardvark
+2024-07-10 10:46:01.749 | DEBUG    | __main__:run_experiment:116 - 76-12-B:  Kangaroo
+2024-07-10 10:46:02.264 | DEBUG    | __main__:run_experiment:116 - 76-13-A:  Ostrich
+2024-07-10 10:46:02.548 | DEBUG    | __main__:run_experiment:116 - 76-14-B:  Hyena
+2024-07-10 10:46:03.148 | DEBUG    | __main__:run_experiment:116 - 76-15-A:  Axolotl
+2024-07-10 10:46:03.494 | DEBUG    | __main__:run_experiment:116 - 76-16-B:  Lemur
+2024-07-10 10:46:03.932 | DEBUG    | __main__:run_experiment:116 - 76-17-A:  Robin
+2024-07-10 10:46:04.282 | DEBUG    | __main__:run_experiment:116 - 76-18-B:  Numbat
+2024-07-10 10:46:04.719 | DEBUG    | __main__:run_experiment:116 - 76-19-A:  Tiger
+2024-07-10 10:46:05.147 | DEBUG    | __main__:run_experiment:116 - 76-20-B:  Rattlesnake
+2024-07-10 10:46:05.693 | DEBUG    | __main__:run_experiment:116 - 76-21-A:  Eel
+2024-07-10 10:46:05.970 | DEBUG    | __main__:run_experiment:116 - 76-22-B:  Llama
+2024-07-10 10:46:06.485 | DEBUG    | __main__:run_experiment:116 - 76-23-A:  Armadillo
+2024-07-10 10:46:06.859 | DEBUG    | __main__:run_experiment:116 - 76-24-B:  Ocelot
+2024-07-10 10:46:07.305 | DEBUG    | __main__:run_experiment:116 - 76-25-A:  Turtle
+2024-07-10 10:46:07.983 | DEBUG    | __main__:run_experiment:116 - 76-26-B:  Eel (Disqualified duplicate animal)
+2024-07-10 10:46:07.990 | INFO     | __main__:run_experiment:128 - Experiment 76: Winner: Model B - A disqualified: Eel (Disqualified duplicate animal)
+2024-07-10 10:46:08.000 | INFO     | __main__:run_experiments:170 - Running experiment 77
+2024-07-10 10:46:08.001 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:08.003 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:08.004 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:08.005 | DEBUG    | __main__:run_experiment:91 - 77-0-A:  Giraffe
+2024-07-10 10:46:08.378 | DEBUG    | __main__:run_experiment:116 - 77-1-A:  Elephant
+2024-07-10 10:46:08.609 | DEBUG    | __main__:run_experiment:116 - 77-2-B:  Tiger
+2024-07-10 10:46:09.117 | DEBUG    | __main__:run_experiment:116 - 77-3-A:  Rooster
+2024-07-10 10:46:09.524 | DEBUG    | __main__:run_experiment:116 - 77-4-B:  Rattlesnake
+2024-07-10 10:46:09.960 | DEBUG    | __main__:run_experiment:116 - 77-5-A:  Eagle
+2024-07-10 10:46:10.362 | DEBUG    | __main__:run_experiment:116 - 77-6-B:  Echidna
+2024-07-10 10:46:10.954 | DEBUG    | __main__:run_experiment:116 - 77-7-A:  Aardvark
+2024-07-10 10:46:11.296 | DEBUG    | __main__:run_experiment:116 - 77-8-B:  Kangaroo
+2024-07-10 10:46:11.811 | DEBUG    | __main__:run_experiment:116 - 77-9-A:  Ostrich
+2024-07-10 10:46:12.152 | DEBUG    | __main__:run_experiment:116 - 77-10-B:  Hedgehog
+2024-07-10 10:46:12.583 | DEBUG    | __main__:run_experiment:116 - 77-11-A:  Goat
+2024-07-10 10:46:12.863 | DEBUG    | __main__:run_experiment:116 - 77-12-B:  Tapir
+2024-07-10 10:46:13.375 | DEBUG    | __main__:run_experiment:116 - 77-13-A:  Rhinoceros
+2024-07-10 10:46:13.720 | DEBUG    | __main__:run_experiment:116 - 77-14-B:  Salamander
+2024-07-10 10:46:14.234 | DEBUG    | __main__:run_experiment:116 - 77-15-A:  Red panda
+2024-07-10 10:46:14.576 | DEBUG    | __main__:run_experiment:116 - 77-16-B:  Auklet
+2024-07-10 10:46:15.414 | DEBUG    | __main__:run_experiment:116 - 77-17-A:  Tiger 
+
+
+
+Disqualified: Repetition.
+2024-07-10 10:46:15.421 | INFO     | __main__:run_experiment:128 - Experiment 77: Winner: Model A - B disqualified: Tiger 
+
+
+
+Disqualified: Repetition.
+2024-07-10 10:46:15.431 | INFO     | __main__:run_experiments:170 - Running experiment 78
+2024-07-10 10:46:15.435 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:15.437 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:15.439 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:15.441 | DEBUG    | __main__:run_experiment:91 - 78-0-A:  Giraffe
+2024-07-10 10:46:15.974 | DEBUG    | __main__:run_experiment:116 - 78-1-A:  Echidna
+2024-07-10 10:46:16.609 | DEBUG    | __main__:run_experiment:116 - 78-2-B:  Aardvark
+2024-07-10 10:46:17.121 | DEBUG    | __main__:run_experiment:116 - 78-3-A:  Komodo
+2024-07-10 10:46:17.467 | DEBUG    | __main__:run_experiment:116 - 78-4-B:  Ostrich
+2024-07-10 10:46:17.904 | DEBUG    | __main__:run_experiment:116 - 78-5-A:  Horse
+2024-07-10 10:46:18.180 | DEBUG    | __main__:run_experiment:116 - 78-6-B:  Eel
+2024-07-10 10:46:18.620 | DEBUG    | __main__:run_experiment:116 - 78-7-A:  Lion
+2024-07-10 10:46:18.973 | DEBUG    | __main__:run_experiment:116 - 78-8-B:  Numbat
+2024-07-10 10:46:19.455 | DEBUG    | __main__:run_experiment:116 - 78-9-A:  Tiger
+2024-07-10 10:46:19.955 | DEBUG    | __main__:run_experiment:116 - 78-10-B:  Rattlesnake
+2024-07-10 10:46:20.385 | DEBUG    | __main__:run_experiment:116 - 78-11-A:  Elephant
+2024-07-10 10:46:20.658 | DEBUG    | __main__:run_experiment:116 - 78-12-B:  Tapir
+2024-07-10 10:46:21.177 | DEBUG    | __main__:run_experiment:116 - 78-13-A:  Roadrunner
+2024-07-10 10:46:21.590 | DEBUG    | __main__:run_experiment:116 - 78-14-B:  Rhinoceros
+2024-07-10 10:46:23.197 | DEBUG    | __main__:run_experiment:116 - 78-15-A:  Snake 
+
+
+
+Let me know if you want to keep playing! 😊
+2024-07-10 10:46:23.205 | INFO     | __main__:run_experiment:134 - Experiment 78: Winner: Model B - A response too long (so not an animal)
+2024-07-10 10:46:23.217 | INFO     | __main__:run_experiments:170 - Running experiment 79
+2024-07-10 10:46:23.219 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:23.220 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:23.221 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:23.223 | DEBUG    | __main__:run_experiment:91 - 79-0-A:  Giraffe
+2024-07-10 10:46:23.627 | DEBUG    | __main__:run_experiment:116 - 79-1-A:  Elephant
+2024-07-10 10:46:24.110 | DEBUG    | __main__:run_experiment:116 - 79-2-B:  Tiger
+2024-07-10 10:46:24.669 | DEBUG    | __main__:run_experiment:116 - 79-3-A:  Rhinoceros
+2024-07-10 10:46:25.039 | DEBUG    | __main__:run_experiment:116 - 79-4-B:  Squid
+2024-07-10 10:46:25.510 | DEBUG    | __main__:run_experiment:116 - 79-5-A:  Donkey
+2024-07-10 10:46:25.791 | DEBUG    | __main__:run_experiment:116 - 79-6-B:  Yak
+2024-07-10 10:46:26.218 | DEBUG    | __main__:run_experiment:116 - 79-7-A:  Koala
+2024-07-10 10:46:26.636 | DEBUG    | __main__:run_experiment:116 - 79-8-B:  Aardvark
+2024-07-10 10:46:27.159 | DEBUG    | __main__:run_experiment:116 - 79-9-A:  Kangaroo
+2024-07-10 10:46:27.520 | DEBUG    | __main__:run_experiment:116 - 79-10-B:  Ostrich
+2024-07-10 10:46:27.990 | DEBUG    | __main__:run_experiment:116 - 79-11-A:  Horse
+2024-07-10 10:46:28.422 | DEBUG    | __main__:run_experiment:116 - 79-12-B:  Echidna
+2024-07-10 10:46:28.973 | DEBUG    | __main__:run_experiment:116 - 79-13-A:  Alligator
+2024-07-10 10:46:29.396 | DEBUG    | __main__:run_experiment:116 - 79-14-B:  Rattlesnake
+2024-07-10 10:46:29.853 | DEBUG    | __main__:run_experiment:116 - 79-15-A:  Eagle
+2024-07-10 10:46:30.143 | DEBUG    | __main__:run_experiment:116 - 79-16-B:  Eel
+2024-07-10 10:46:30.603 | DEBUG    | __main__:run_experiment:116 - 79-17-A:  Llama
+2024-07-10 10:46:31.164 | DEBUG    | __main__:run_experiment:116 - 79-18-B:  Axehead Angelfish
+2024-07-10 10:46:32.131 | DEBUG    | __main__:run_experiment:116 - 79-19-A:  Disqualified [Invalid animal name]
+2024-07-10 10:46:32.133 | INFO     | __main__:run_experiment:128 - Experiment 79: Winner: Model A - B disqualified: Disqualified [Invalid animal name]
+2024-07-10 10:46:32.138 | INFO     | __main__:run_experiments:170 - Running experiment 80
+2024-07-10 10:46:32.140 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:32.141 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:32.142 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:32.143 | DEBUG    | __main__:run_experiment:91 - 80-0-A:  Giraffe
+2024-07-10 10:46:32.676 | DEBUG    | __main__:run_experiment:116 - 80-1-A:  Echidna
+2024-07-10 10:46:33.405 | DEBUG    | __main__:run_experiment:116 - 80-2-B:  Aardvark
+2024-07-10 10:46:33.844 | DEBUG    | __main__:run_experiment:116 - 80-3-A:  Koala
+2024-07-10 10:46:34.112 | DEBUG    | __main__:run_experiment:116 - 80-4-B:  Ape
+2024-07-10 10:46:34.537 | DEBUG    | __main__:run_experiment:116 - 80-5-A:  Elephant
+2024-07-10 10:46:34.827 | DEBUG    | __main__:run_experiment:116 - 80-6-B:  Tiger
+2024-07-10 10:46:35.264 | DEBUG    | __main__:run_experiment:116 - 80-7-A:  Rhino
+2024-07-10 10:46:35.599 | DEBUG    | __main__:run_experiment:116 - 80-8-B:  Ostrich
+2024-07-10 10:46:36.110 | DEBUG    | __main__:run_experiment:116 - 80-9-A:  Hedgehog
+2024-07-10 10:46:36.387 | DEBUG    | __main__:run_experiment:116 - 80-10-B:  Gopher
+2024-07-10 10:46:36.894 | DEBUG    | __main__:run_experiment:116 - 80-11-A:  Raccoon
+2024-07-10 10:46:37.235 | DEBUG    | __main__:run_experiment:116 - 80-12-B:  Numbat
+2024-07-10 10:46:37.662 | DEBUG    | __main__:run_experiment:116 - 80-13-A:  Turkey
+2024-07-10 10:46:37.938 | DEBUG    | __main__:run_experiment:116 - 80-14-B:  Yak
+2024-07-10 10:46:38.447 | DEBUG    | __main__:run_experiment:116 - 80-15-A:  Krill
+2024-07-10 10:46:38.788 | DEBUG    | __main__:run_experiment:116 - 80-16-B:  Lemur
+2024-07-10 10:46:39.219 | DEBUG    | __main__:run_experiment:116 - 80-17-A:  Rabbit
+2024-07-10 10:46:39.498 | DEBUG    | __main__:run_experiment:116 - 80-18-B:  Tapir
+2024-07-10 10:46:40.012 | DEBUG    | __main__:run_experiment:116 - 80-19-A:  Rooster
+2024-07-10 10:46:40.419 | DEBUG    | __main__:run_experiment:116 - 80-20-B:  Rattlesnake
+2024-07-10 10:46:40.854 | DEBUG    | __main__:run_experiment:116 - 80-21-A:  Elephant
+2024-07-10 10:46:41.460 | DEBUG    | __main__:run_experiment:116 - 80-22-B:  Disqualified Previous animal already mentioned.
+2024-07-10 10:46:41.468 | INFO     | __main__:run_experiment:128 - Experiment 80: Winner: Model B - A disqualified: Disqualified Previous animal already mentioned.
+2024-07-10 10:46:41.479 | INFO     | __main__:run_experiments:170 - Running experiment 81
+2024-07-10 10:46:41.482 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:41.483 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:41.485 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:41.487 | DEBUG    | __main__:run_experiment:91 - 81-0-A:  Giraffe
+2024-07-10 10:46:41.869 | DEBUG    | __main__:run_experiment:116 - 81-1-A:  Eagle
+2024-07-10 10:46:42.267 | DEBUG    | __main__:run_experiment:116 - 81-2-B:  Echidna
+2024-07-10 10:46:42.783 | DEBUG    | __main__:run_experiment:116 - 81-3-A:  Alpaca
+2024-07-10 10:46:43.197 | DEBUG    | __main__:run_experiment:116 - 81-4-B:  Aardvark
+2024-07-10 10:46:43.652 | DEBUG    | __main__:run_experiment:116 - 81-5-A:  Koala
+2024-07-10 10:46:44.137 | DEBUG    | __main__:run_experiment:116 - 81-6-B:  Axiolotl
+2024-07-10 10:46:44.587 | DEBUG    | __main__:run_experiment:116 - 81-7-A:  Tiger
+2024-07-10 10:46:45.015 | DEBUG    | __main__:run_experiment:116 - 81-8-B:  Rattlesnake
+2024-07-10 10:46:45.459 | DEBUG    | __main__:run_experiment:116 - 81-9-A:  Elephant
+2024-07-10 10:46:45.749 | DEBUG    | __main__:run_experiment:116 - 81-10-B:  Tapir
+2024-07-10 10:46:46.193 | DEBUG    | __main__:run_experiment:116 - 81-11-A:  Rabbit
+2024-07-10 10:46:46.545 | DEBUG    | __main__:run_experiment:116 - 81-12-B:  Tortoise
+2024-07-10 10:46:47.081 | DEBUG    | __main__:run_experiment:116 - 81-13-A:  Eel
+2024-07-10 10:46:47.430 | DEBUG    | __main__:run_experiment:116 - 81-14-B:  Lemur
+2024-07-10 10:46:47.856 | DEBUG    | __main__:run_experiment:116 - 81-15-A:  Robin
+2024-07-10 10:46:48.193 | DEBUG    | __main__:run_experiment:116 - 81-16-B:  Numbat
+2024-07-10 10:46:48.559 | DEBUG    | __main__:run_experiment:116 - 81-17-A:  Tiger
+2024-07-10 10:46:49.054 | DEBUG    | __main__:run_experiment:116 - 81-18-B:  Disqualified repeated animal.
+2024-07-10 10:46:49.061 | INFO     | __main__:run_experiment:128 - Experiment 81: Winner: Model B - A disqualified: Disqualified repeated animal.
+2024-07-10 10:46:49.072 | INFO     | __main__:run_experiments:170 - Running experiment 82
+2024-07-10 10:46:49.075 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:49.078 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:49.079 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:49.081 | DEBUG    | __main__:run_experiment:91 - 82-0-A:  Giraffe
+2024-07-10 10:46:49.538 | DEBUG    | __main__:run_experiment:116 - 82-1-A:  Eel
+2024-07-10 10:46:49.788 | DEBUG    | __main__:run_experiment:116 - 82-2-B:  Llama
+2024-07-10 10:46:50.294 | DEBUG    | __main__:run_experiment:116 - 82-3-A:  Armadillo
+2024-07-10 10:46:50.640 | DEBUG    | __main__:run_experiment:116 - 82-4-B:  Ostrich
+2024-07-10 10:46:51.068 | DEBUG    | __main__:run_experiment:116 - 82-5-A:  Horse
+2024-07-10 10:46:51.479 | DEBUG    | __main__:run_experiment:116 - 82-6-B:  Echidna
+2024-07-10 10:46:52.009 | DEBUG    | __main__:run_experiment:116 - 82-7-A:  Antelope
+2024-07-10 10:46:52.291 | DEBUG    | __main__:run_experiment:116 - 82-8-B:  Eagle
+2024-07-10 10:46:52.731 | DEBUG    | __main__:run_experiment:116 - 82-9-A:  Elephant
+2024-07-10 10:46:53.013 | DEBUG    | __main__:run_experiment:116 - 82-10-B:  Tiger
+2024-07-10 10:46:53.634 | DEBUG    | __main__:run_experiment:116 - 82-11-A:  Rattlesnake
+2024-07-10 10:46:53.916 | DEBUG    | __main__:run_experiment:116 - 82-12-B:  Eel
+2024-07-10 10:46:54.773 | DEBUG    | __main__:run_experiment:116 - 82-13-A:  Disqualified Repeted animal.
+2024-07-10 10:46:54.781 | INFO     | __main__:run_experiment:128 - Experiment 82: Winner: Model A - B disqualified: Disqualified Repeted animal.
+2024-07-10 10:46:54.792 | INFO     | __main__:run_experiments:170 - Running experiment 83
+2024-07-10 10:46:54.796 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:46:54.798 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:46:54.799 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:46:54.802 | DEBUG    | __main__:run_experiment:91 - 83-0-A:  Giraffe
+2024-07-10 10:46:55.235 | DEBUG    | __main__:run_experiment:116 - 83-1-A:  Elephant
+2024-07-10 10:46:55.731 | DEBUG    | __main__:run_experiment:116 - 83-2-B:  Tiger
+2024-07-10 10:46:56.251 | DEBUG    | __main__:run_experiment:116 - 83-3-A:  Rhinoceros
+2024-07-10 10:46:56.593 | DEBUG    | __main__:run_experiment:116 - 83-4-B:  Salamander
+2024-07-10 10:46:57.181 | DEBUG    | __main__:run_experiment:116 - 83-5-A:  Rattlesnake
+2024-07-10 10:46:57.612 | DEBUG    | __main__:run_experiment:116 - 83-6-B:  Echidna
+2024-07-10 10:46:58.223 | DEBUG    | __main__:run_experiment:116 - 83-7-A:  Aardvark
+2024-07-10 10:46:58.570 | DEBUG    | __main__:run_experiment:116 - 83-8-B:  Kangaroo
+2024-07-10 10:46:59.090 | DEBUG    | __main__:run_experiment:116 - 83-9-A:  Ostrich
+2024-07-10 10:46:59.376 | DEBUG    | __main__:run_experiment:116 - 83-10-B:  Hyena
+2024-07-10 10:46:59.816 | DEBUG    | __main__:run_experiment:116 - 83-11-A:  Elephant
+2024-07-10 10:47:00.421 | DEBUG    | __main__:run_experiment:116 - 83-12-B:  Disqualified same animal mentioned earlier.
+2024-07-10 10:47:00.429 | INFO     | __main__:run_experiment:128 - Experiment 83: Winner: Model B - A disqualified: Disqualified same animal mentioned earlier.
+2024-07-10 10:47:00.441 | INFO     | __main__:run_experiments:170 - Running experiment 84
+2024-07-10 10:47:00.449 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:00.455 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:00.458 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:00.460 | DEBUG    | __main__:run_experiment:91 - 84-0-A:  Giraffe
+2024-07-10 10:47:00.830 | DEBUG    | __main__:run_experiment:116 - 84-1-A:  Elephant
+2024-07-10 10:47:01.043 | DEBUG    | __main__:run_experiment:116 - 84-2-B:  Tiger
+2024-07-10 10:47:01.554 | DEBUG    | __main__:run_experiment:116 - 84-3-A:  Rhinoceros
+2024-07-10 10:47:01.894 | DEBUG    | __main__:run_experiment:116 - 84-4-B:  Squid
+2024-07-10 10:47:02.323 | DEBUG    | __main__:run_experiment:116 - 84-5-A:  Dog
+2024-07-10 10:47:02.661 | DEBUG    | __main__:run_experiment:116 - 84-6-B:  Goldfinch
+2024-07-10 10:47:03.091 | DEBUG    | __main__:run_experiment:116 - 84-7-A:  Horse
+2024-07-10 10:47:03.495 | DEBUG    | __main__:run_experiment:116 - 84-8-B:  Echidna
+2024-07-10 10:47:04.084 | DEBUG    | __main__:run_experiment:116 - 84-9-A:  Aardvark
+2024-07-10 10:47:04.425 | DEBUG    | __main__:run_experiment:116 - 84-10-B:  Kangaroo
+2024-07-10 10:47:04.936 | DEBUG    | __main__:run_experiment:116 - 84-11-A:  Ostrich
+2024-07-10 10:47:05.211 | DEBUG    | __main__:run_experiment:116 - 84-12-B:  Hyena
+2024-07-10 10:47:05.640 | DEBUG    | __main__:run_experiment:116 - 84-13-A:  Eagle
+2024-07-10 10:47:05.914 | DEBUG    | __main__:run_experiment:116 - 84-14-B:  Eel
+2024-07-10 10:47:06.355 | DEBUG    | __main__:run_experiment:116 - 84-15-A:  Lion
+2024-07-10 10:47:06.700 | DEBUG    | __main__:run_experiment:116 - 84-16-B:  Numbat
+2024-07-10 10:47:07.150 | DEBUG    | __main__:run_experiment:116 - 84-17-A:  Turtle
+2024-07-10 10:47:07.560 | DEBUG    | __main__:run_experiment:116 - 84-18-B:  Echidna
+2024-07-10 10:47:08.165 | DEBUG    | __main__:run_experiment:116 - 84-19-A:  Aardvark
+2024-07-10 10:47:09.234 | DEBUG    | __main__:run_experiment:116 - 84-20-B:  Disqualified You already mentioned Aardvark earlier in the game.
+2024-07-10 10:47:09.242 | INFO     | __main__:run_experiment:128 - Experiment 84: Winner: Model B - A disqualified: Disqualified You already mentioned Aardvark earlier in the game.
+2024-07-10 10:47:09.253 | INFO     | __main__:run_experiments:170 - Running experiment 85
+2024-07-10 10:47:09.256 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:09.258 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:09.260 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:09.262 | DEBUG    | __main__:run_experiment:91 - 85-0-A:  Giraffe
+2024-07-10 10:47:09.812 | DEBUG    | __main__:run_experiment:116 - 85-1-A:  Echidna
+2024-07-10 10:47:10.292 | DEBUG    | __main__:run_experiment:116 - 85-2-B:  Aardvark
+2024-07-10 10:47:10.722 | DEBUG    | __main__:run_experiment:116 - 85-3-A:  Koala
+2024-07-10 10:47:10.994 | DEBUG    | __main__:run_experiment:116 - 85-4-B:  Ape
+2024-07-10 10:47:11.414 | DEBUG    | __main__:run_experiment:116 - 85-5-A:  Elephant
+2024-07-10 10:47:11.690 | DEBUG    | __main__:run_experiment:116 - 85-6-B:  Tiger
+2024-07-10 10:47:12.201 | DEBUG    | __main__:run_experiment:116 - 85-7-A:  Rooster
+2024-07-10 10:47:12.624 | DEBUG    | __main__:run_experiment:116 - 85-8-B:  Rattlesnake
+2024-07-10 10:47:13.768 | DEBUG    | __main__:run_experiment:116 - 85-9-A:  Elephant 
+
+
+
+Disqualified (Repeated animal)
+2024-07-10 10:47:13.775 | INFO     | __main__:run_experiment:128 - Experiment 85: Winner: Model A - B disqualified: Elephant 
+
+
+
+Disqualified (Repeated animal)
+2024-07-10 10:47:13.786 | INFO     | __main__:run_experiments:170 - Running experiment 86
+2024-07-10 10:47:13.789 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:13.791 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:13.793 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:13.794 | DEBUG    | __main__:run_experiment:91 - 86-0-A:  Giraffe
+2024-07-10 10:47:14.196 | DEBUG    | __main__:run_experiment:116 - 86-1-A:  Eagle
+2024-07-10 10:47:14.774 | DEBUG    | __main__:run_experiment:116 - 86-2-B:  Echidna
+2024-07-10 10:47:15.379 | DEBUG    | __main__:run_experiment:116 - 86-3-A:  Aardvark
+2024-07-10 10:47:15.730 | DEBUG    | __main__:run_experiment:116 - 86-4-B:  Kangaroo
+2024-07-10 10:47:16.247 | DEBUG    | __main__:run_experiment:116 - 86-5-A:  Ostrich
+2024-07-10 10:47:16.530 | DEBUG    | __main__:run_experiment:116 - 86-6-B:  Hyena
+2024-07-10 10:47:16.971 | DEBUG    | __main__:run_experiment:116 - 86-7-A:  Elephant
+2024-07-10 10:47:17.253 | DEBUG    | __main__:run_experiment:116 - 86-8-B:  Tiger
+2024-07-10 10:47:17.698 | DEBUG    | __main__:run_experiment:116 - 86-9-A:  Rhino
+2024-07-10 10:47:18.044 | DEBUG    | __main__:run_experiment:116 - 86-10-B:  Ocelot
+2024-07-10 10:47:18.494 | DEBUG    | __main__:run_experiment:116 - 86-11-A:  Turtle
+2024-07-10 10:47:18.779 | DEBUG    | __main__:run_experiment:116 - 86-12-B:  Eel
+2024-07-10 10:47:19.215 | DEBUG    | __main__:run_experiment:116 - 86-13-A:  Lion
+2024-07-10 10:47:19.630 | DEBUG    | __main__:run_experiment:116 - 86-14-B:  Narwhal
+2024-07-10 10:47:20.070 | DEBUG    | __main__:run_experiment:116 - 86-15-A:  Llama
+2024-07-10 10:47:20.352 | DEBUG    | __main__:run_experiment:116 - 86-16-B:  Ape
+2024-07-10 10:47:20.790 | DEBUG    | __main__:run_experiment:116 - 86-17-A:  Elephant
+2024-07-10 10:47:21.271 | DEBUG    | __main__:run_experiment:116 - 86-18-B:  Disqualified repeated animal.
+2024-07-10 10:47:21.279 | INFO     | __main__:run_experiment:128 - Experiment 86: Winner: Model B - A disqualified: Disqualified repeated animal.
+2024-07-10 10:47:21.291 | INFO     | __main__:run_experiments:170 - Running experiment 87
+2024-07-10 10:47:21.295 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:21.297 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:21.299 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:21.302 | DEBUG    | __main__:run_experiment:91 - 87-0-A:  Giraffe
+2024-07-10 10:47:21.682 | DEBUG    | __main__:run_experiment:116 - 87-1-A:  Elephant
+2024-07-10 10:47:21.952 | DEBUG    | __main__:run_experiment:116 - 87-2-B:  Tapir
+2024-07-10 10:47:22.462 | DEBUG    | __main__:run_experiment:116 - 87-3-A:  Raccoon
+2024-07-10 10:47:22.877 | DEBUG    | __main__:run_experiment:116 - 87-4-B:  Narwhal
+2024-07-10 10:47:23.312 | DEBUG    | __main__:run_experiment:116 - 87-5-A:  Lion
+2024-07-10 10:47:23.657 | DEBUG    | __main__:run_experiment:116 - 87-6-B:  Numbat
+2024-07-10 10:47:24.089 | DEBUG    | __main__:run_experiment:116 - 87-7-A:  Tiger
+2024-07-10 10:47:24.495 | DEBUG    | __main__:run_experiment:116 - 87-8-B:  Rattlesnake
+2024-07-10 10:47:24.947 | DEBUG    | __main__:run_experiment:116 - 87-9-A:  Eagle
+2024-07-10 10:47:25.397 | DEBUG    | __main__:run_experiment:116 - 87-10-B:  Echidna
+2024-07-10 10:47:26.021 | DEBUG    | __main__:run_experiment:116 - 87-11-A:  Aardvark
+2024-07-10 10:47:26.363 | DEBUG    | __main__:run_experiment:116 - 87-12-B:  Kangaroo
+2024-07-10 10:47:26.886 | DEBUG    | __main__:run_experiment:116 - 87-13-A:  Ostrich
+2024-07-10 10:47:27.237 | DEBUG    | __main__:run_experiment:116 - 87-14-B:  Hedgehog
+2024-07-10 10:47:27.679 | DEBUG    | __main__:run_experiment:116 - 87-15-A:  Goat
+2024-07-10 10:47:27.960 | DEBUG    | __main__:run_experiment:116 - 87-16-B:  Tapir
+2024-07-10 10:47:28.814 | DEBUG    | __main__:run_experiment:116 - 87-17-A:  Disqualified Repetitive animal.
+2024-07-10 10:47:28.822 | INFO     | __main__:run_experiment:128 - Experiment 87: Winner: Model A - B disqualified: Disqualified Repetitive animal.
+2024-07-10 10:47:28.834 | INFO     | __main__:run_experiments:170 - Running experiment 88
+2024-07-10 10:47:28.837 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:28.840 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:28.841 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:28.843 | DEBUG    | __main__:run_experiment:91 - 88-0-A:  Giraffe
+2024-07-10 10:47:29.217 | DEBUG    | __main__:run_experiment:116 - 88-1-A:  Elephant
+2024-07-10 10:47:29.506 | DEBUG    | __main__:run_experiment:116 - 88-2-B:  Tapir
+2024-07-10 10:47:30.027 | DEBUG    | __main__:run_experiment:116 - 88-3-A:  Rhinoceros
+2024-07-10 10:47:30.372 | DEBUG    | __main__:run_experiment:116 - 88-4-B:  Salamander
+2024-07-10 10:47:30.881 | DEBUG    | __main__:run_experiment:116 - 88-5-A:  Raccoon
+2024-07-10 10:47:31.226 | DEBUG    | __main__:run_experiment:116 - 88-6-B:  Numbat
+2024-07-10 10:47:31.661 | DEBUG    | __main__:run_experiment:116 - 88-7-A:  Tiger
+2024-07-10 10:47:32.071 | DEBUG    | __main__:run_experiment:116 - 88-8-B:  Rattlesnake
+2024-07-10 10:47:32.505 | DEBUG    | __main__:run_experiment:116 - 88-9-A:  Eagle
+2024-07-10 10:47:32.922 | DEBUG    | __main__:run_experiment:116 - 88-10-B:  Echidna
+2024-07-10 10:47:33.529 | DEBUG    | __main__:run_experiment:116 - 88-11-A:  Aardvark
+2024-07-10 10:47:33.879 | DEBUG    | __main__:run_experiment:116 - 88-12-B:  Kangaroo
+2024-07-10 10:47:34.396 | DEBUG    | __main__:run_experiment:116 - 88-13-A:  Ostrich
+2024-07-10 10:47:34.766 | DEBUG    | __main__:run_experiment:116 - 88-14-B:  Hedgehog
+2024-07-10 10:47:35.201 | DEBUG    | __main__:run_experiment:116 - 88-15-A:  Goat
+2024-07-10 10:47:35.544 | DEBUG    | __main__:run_experiment:116 - 88-16-B:  Tortoise
+2024-07-10 10:47:36.059 | DEBUG    | __main__:run_experiment:116 - 88-17-A:  Eel
+2024-07-10 10:47:36.406 | DEBUG    | __main__:run_experiment:116 - 88-18-B:  Lemur
+2024-07-10 10:47:36.918 | DEBUG    | __main__:run_experiment:116 - 88-19-A:  Roadrunner
+2024-07-10 10:47:37.330 | DEBUG    | __main__:run_experiment:116 - 88-20-B:  Rattlesnake
+2024-07-10 10:47:37.766 | DEBUG    | __main__:run_experiment:116 - 88-21-A:  Elephant
+2024-07-10 10:47:38.630 | DEBUG    | __main__:run_experiment:116 - 88-22-B:  Disqualified You already mentioned Elephant earlier in the game.
+2024-07-10 10:47:38.640 | INFO     | __main__:run_experiment:128 - Experiment 88: Winner: Model B - A disqualified: Disqualified You already mentioned Elephant earlier in the game.
+2024-07-10 10:47:38.653 | INFO     | __main__:run_experiments:170 - Running experiment 89
+2024-07-10 10:47:38.656 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:38.657 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:38.659 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:38.662 | DEBUG    | __main__:run_experiment:91 - 89-0-A:  Giraffe
+2024-07-10 10:47:39.192 | DEBUG    | __main__:run_experiment:116 - 89-1-A:  Echidna
+2024-07-10 10:47:39.462 | DEBUG    | __main__:run_experiment:116 - 89-2-B:  Ape
+2024-07-10 10:47:39.885 | DEBUG    | __main__:run_experiment:116 - 89-3-A:  Elephant
+2024-07-10 10:47:40.182 | DEBUG    | __main__:run_experiment:116 - 89-4-B:  Tiger
+2024-07-10 10:47:40.714 | DEBUG    | __main__:run_experiment:116 - 89-5-A:  Rhinoceros
+2024-07-10 10:47:40.988 | DEBUG    | __main__:run_experiment:116 - 89-6-B:  Squirrel
+2024-07-10 10:47:41.423 | DEBUG    | __main__:run_experiment:116 - 89-7-A:  Lion
+2024-07-10 10:47:41.830 | DEBUG    | __main__:run_experiment:116 - 89-8-B:  Narwhal
+2024-07-10 10:47:42.262 | DEBUG    | __main__:run_experiment:116 - 89-9-A:  Leopard
+2024-07-10 10:47:42.538 | DEBUG    | __main__:run_experiment:116 - 89-10-B:  Dingo
+2024-07-10 10:47:43.049 | DEBUG    | __main__:run_experiment:116 - 89-11-A:  Ostrich
+2024-07-10 10:47:43.331 | DEBUG    | __main__:run_experiment:116 - 89-12-B:  Hyena
+2024-07-10 10:47:44.186 | DEBUG    | __main__:run_experiment:116 - 89-13-A:  Elephant 
+
+
+
+Disqualified: Repetition.
+2024-07-10 10:47:44.195 | INFO     | __main__:run_experiment:128 - Experiment 89: Winner: Model A - B disqualified: Elephant 
+
+
+
+Disqualified: Repetition.
+2024-07-10 10:47:44.205 | INFO     | __main__:run_experiments:170 - Running experiment 90
+2024-07-10 10:47:44.209 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:44.210 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:44.212 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:44.214 | DEBUG    | __main__:run_experiment:91 - 90-0-A:  Giraffe
+2024-07-10 10:47:44.768 | DEBUG    | __main__:run_experiment:116 - 90-1-A:  Echidna
+2024-07-10 10:47:45.318 | DEBUG    | __main__:run_experiment:116 - 90-2-B:  Aardvark
+2024-07-10 10:47:45.747 | DEBUG    | __main__:run_experiment:116 - 90-3-A:  Koala
+2024-07-10 10:47:46.021 | DEBUG    | __main__:run_experiment:116 - 90-4-B:  Ape
+2024-07-10 10:47:46.447 | DEBUG    | __main__:run_experiment:116 - 90-5-A:  Elephant
+2024-07-10 10:47:46.722 | DEBUG    | __main__:run_experiment:116 - 90-6-B:  Tiger
+2024-07-10 10:47:47.230 | DEBUG    | __main__:run_experiment:116 - 90-7-A:  Rhinoceros
+2024-07-10 10:47:47.570 | DEBUG    | __main__:run_experiment:116 - 90-8-B:  Salamander
+2024-07-10 10:47:48.000 | DEBUG    | __main__:run_experiment:116 - 90-9-A:  Rabbit
+2024-07-10 10:47:48.278 | DEBUG    | __main__:run_experiment:116 - 90-10-B:  Tapir
+2024-07-10 10:47:48.788 | DEBUG    | __main__:run_experiment:116 - 90-11-A:  Roach
+2024-07-10 10:47:49.131 | DEBUG    | __main__:run_experiment:116 - 90-12-B:  Hedgehog
+2024-07-10 10:47:49.572 | DEBUG    | __main__:run_experiment:116 - 90-13-A:  Goat
+2024-07-10 10:47:49.861 | DEBUG    | __main__:run_experiment:116 - 90-14-B:  Tapir
+2024-07-10 10:47:50.894 | DEBUG    | __main__:run_experiment:116 - 90-15-A:  Disqualified: Repeating an animal.
+2024-07-10 10:47:50.902 | INFO     | __main__:run_experiment:128 - Experiment 90: Winner: Model A - B disqualified: Disqualified: Repeating an animal.
+2024-07-10 10:47:50.914 | INFO     | __main__:run_experiments:170 - Running experiment 91
+2024-07-10 10:47:50.916 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:50.918 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:50.920 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:50.923 | DEBUG    | __main__:run_experiment:91 - 91-0-A:  Giraffe
+2024-07-10 10:47:51.327 | DEBUG    | __main__:run_experiment:116 - 91-1-A:  Elephant
+2024-07-10 10:47:51.780 | DEBUG    | __main__:run_experiment:116 - 91-2-B:  Tiger
+2024-07-10 10:47:52.381 | DEBUG    | __main__:run_experiment:116 - 91-3-A:  Rattlesnake
+2024-07-10 10:47:52.796 | DEBUG    | __main__:run_experiment:116 - 91-4-B:  Echidna
+2024-07-10 10:47:53.398 | DEBUG    | __main__:run_experiment:116 - 91-5-A:  Aardvark
+2024-07-10 10:47:53.746 | DEBUG    | __main__:run_experiment:116 - 91-6-B:  Kangaroo
+2024-07-10 10:47:54.263 | DEBUG    | __main__:run_experiment:116 - 91-7-A:  Ostrich
+2024-07-10 10:47:54.542 | DEBUG    | __main__:run_experiment:116 - 91-8-B:  Hyena
+2024-07-10 10:47:55.171 | DEBUG    | __main__:run_experiment:116 - 91-9-A:  Axolotl
+2024-07-10 10:47:55.552 | DEBUG    | __main__:run_experiment:116 - 91-10-B:  Lemur
+2024-07-10 10:47:55.978 | DEBUG    | __main__:run_experiment:116 - 91-11-A:  Robin
+2024-07-10 10:47:56.387 | DEBUG    | __main__:run_experiment:116 - 91-12-B:  Narwhal
+2024-07-10 10:47:56.827 | DEBUG    | __main__:run_experiment:116 - 91-13-A:  Lion
+2024-07-10 10:47:57.175 | DEBUG    | __main__:run_experiment:116 - 91-14-B:  Nightingale
+2024-07-10 10:47:57.614 | DEBUG    | __main__:run_experiment:116 - 91-15-A:  Elephant
+2024-07-10 10:47:58.097 | DEBUG    | __main__:run_experiment:116 - 91-16-B:  Disqualified repeated animal.
+2024-07-10 10:47:58.105 | INFO     | __main__:run_experiment:128 - Experiment 91: Winner: Model B - A disqualified: Disqualified repeated animal.
+2024-07-10 10:47:58.118 | INFO     | __main__:run_experiments:170 - Running experiment 92
+2024-07-10 10:47:58.121 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:47:58.123 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:47:58.125 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:47:58.126 | DEBUG    | __main__:run_experiment:91 - 92-0-A:  Giraffe
+2024-07-10 10:47:58.504 | DEBUG    | __main__:run_experiment:116 - 92-1-A:  Elephant
+2024-07-10 10:47:58.725 | DEBUG    | __main__:run_experiment:116 - 92-2-B:  Tiger
+2024-07-10 10:47:59.155 | DEBUG    | __main__:run_experiment:116 - 92-3-A:  Rabbit
+2024-07-10 10:47:59.431 | DEBUG    | __main__:run_experiment:116 - 92-4-B:  Tapir
+2024-07-10 10:48:00.033 | DEBUG    | __main__:run_experiment:116 - 92-5-A:  Rattlesnake
+2024-07-10 10:48:00.447 | DEBUG    | __main__:run_experiment:116 - 92-6-B:  Echidna
+2024-07-10 10:48:00.963 | DEBUG    | __main__:run_experiment:116 - 92-7-A:  Alpaca
+2024-07-10 10:48:01.375 | DEBUG    | __main__:run_experiment:116 - 92-8-B:  Aardvark
+2024-07-10 10:48:01.811 | DEBUG    | __main__:run_experiment:116 - 92-9-A:  Koala
+2024-07-10 10:48:02.092 | DEBUG    | __main__:run_experiment:116 - 92-10-B:  Anaconda
+2024-07-10 10:48:02.613 | DEBUG    | __main__:run_experiment:116 - 92-11-A:  aardwolf
+2024-07-10 10:48:02.896 | DEBUG    | __main__:run_experiment:116 - 92-12-B:  Falcon
+2024-07-10 10:48:03.499 | DEBUG    | __main__:run_experiment:116 - 92-13-A:  Nighthawk
+2024-07-10 10:48:03.713 | DEBUG    | __main__:run_experiment:116 - 92-14-B:  Wolf
+2024-07-10 10:48:04.154 | DEBUG    | __main__:run_experiment:116 - 92-15-A:  Fox
+2024-07-10 10:48:04.504 | DEBUG    | __main__:run_experiment:116 - 92-16-B:  Xenopus
+2024-07-10 10:48:05.027 | DEBUG    | __main__:run_experiment:116 - 92-17-A:  Salamander
+2024-07-10 10:48:05.445 | DEBUG    | __main__:run_experiment:116 - 92-18-B:  Rhinoceros
+2024-07-10 10:48:05.882 | DEBUG    | __main__:run_experiment:116 - 92-19-A:  Snake
+2024-07-10 10:48:06.637 | DEBUG    | __main__:run_experiment:116 - 92-20-B:  Disqualified Same animal has already been mentioned.
+2024-07-10 10:48:06.647 | INFO     | __main__:run_experiment:128 - Experiment 92: Winner: Model B - A disqualified: Disqualified Same animal has already been mentioned.
+2024-07-10 10:48:06.657 | INFO     | __main__:run_experiments:170 - Running experiment 93
+2024-07-10 10:48:06.661 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:06.663 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:06.665 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:06.667 | DEBUG    | __main__:run_experiment:91 - 93-0-A:  Giraffe
+2024-07-10 10:48:07.051 | DEBUG    | __main__:run_experiment:116 - 93-1-A:  Elephant
+2024-07-10 10:48:07.272 | DEBUG    | __main__:run_experiment:116 - 93-2-B:  Tiger
+2024-07-10 10:48:07.789 | DEBUG    | __main__:run_experiment:116 - 93-3-A:  Rooster
+2024-07-10 10:48:08.194 | DEBUG    | __main__:run_experiment:116 - 93-4-B:  Rattlesnake
+2024-07-10 10:48:08.629 | DEBUG    | __main__:run_experiment:116 - 93-5-A:  Eagle
+2024-07-10 10:48:09.037 | DEBUG    | __main__:run_experiment:116 - 93-6-B:  Echidna
+2024-07-10 10:48:09.471 | DEBUG    | __main__:run_experiment:116 - 93-7-A:  Asp
+2024-07-10 10:48:09.745 | DEBUG    | __main__:run_experiment:116 - 93-8-B:  Puma
+2024-07-10 10:48:10.378 | DEBUG    | __main__:run_experiment:116 - 93-9-A:  Aardvark
+2024-07-10 10:48:10.742 | DEBUG    | __main__:run_experiment:116 - 93-10-B:  Kangaroo
+2024-07-10 10:48:11.250 | DEBUG    | __main__:run_experiment:116 - 93-11-A:  Ostrich
+2024-07-10 10:48:11.528 | DEBUG    | __main__:run_experiment:116 - 93-12-B:  Hyena
+2024-07-10 10:48:11.960 | DEBUG    | __main__:run_experiment:116 - 93-13-A:  Elephant
+2024-07-10 10:48:12.430 | DEBUG    | __main__:run_experiment:116 - 93-14-B:  Disqualified Repeat animal.
+2024-07-10 10:48:12.438 | INFO     | __main__:run_experiment:128 - Experiment 93: Winner: Model B - A disqualified: Disqualified Repeat animal.
+2024-07-10 10:48:12.451 | INFO     | __main__:run_experiments:170 - Running experiment 94
+2024-07-10 10:48:12.454 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:12.456 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:12.458 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:12.459 | DEBUG    | __main__:run_experiment:91 - 94-0-A:  Giraffe
+2024-07-10 10:48:12.829 | DEBUG    | __main__:run_experiment:116 - 94-1-A:  Elephant
+2024-07-10 10:48:13.043 | DEBUG    | __main__:run_experiment:116 - 94-2-B:  Tiger
+2024-07-10 10:48:13.467 | DEBUG    | __main__:run_experiment:116 - 94-3-A:  Rabbit
+2024-07-10 10:48:13.740 | DEBUG    | __main__:run_experiment:116 - 94-4-B:  Tapir
+2024-07-10 10:48:14.250 | DEBUG    | __main__:run_experiment:116 - 94-5-A:  Rooster
+2024-07-10 10:48:14.654 | DEBUG    | __main__:run_experiment:116 - 94-6-B:  Rattlesnake
+2024-07-10 10:48:15.085 | DEBUG    | __main__:run_experiment:116 - 94-7-A:  Eagle
+2024-07-10 10:48:15.490 | DEBUG    | __main__:run_experiment:116 - 94-8-B:  Echidna
+2024-07-10 10:48:16.082 | DEBUG    | __main__:run_experiment:116 - 94-9-A:  Aardvark
+2024-07-10 10:48:16.423 | DEBUG    | __main__:run_experiment:116 - 94-10-B:  Kangaroo
+2024-07-10 10:48:16.855 | DEBUG    | __main__:run_experiment:116 - 94-11-A:  Owl
+2024-07-10 10:48:17.070 | DEBUG    | __main__:run_experiment:116 - 94-12-B:  Wolf
+2024-07-10 10:48:17.500 | DEBUG    | __main__:run_experiment:116 - 94-13-A:  Fish
+2024-07-10 10:48:17.848 | DEBUG    | __main__:run_experiment:116 - 94-14-B:  Hedgehog
+2024-07-10 10:48:18.284 | DEBUG    | __main__:run_experiment:116 - 94-15-A:  Goat
+2024-07-10 10:48:18.627 | DEBUG    | __main__:run_experiment:116 - 94-16-B:  Tortoise
+2024-07-10 10:48:19.065 | DEBUG    | __main__:run_experiment:116 - 94-17-A:  Elephant
+2024-07-10 10:48:19.473 | DEBUG    | __main__:run_experiment:116 - 94-18-B:  Disqualified repeat animal
+2024-07-10 10:48:19.483 | INFO     | __main__:run_experiment:128 - Experiment 94: Winner: Model B - A disqualified: Disqualified repeat animal
+2024-07-10 10:48:19.495 | INFO     | __main__:run_experiments:170 - Running experiment 95
+2024-07-10 10:48:19.498 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:19.500 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:19.501 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:19.503 | DEBUG    | __main__:run_experiment:91 - 95-0-A:  Giraffe
+2024-07-10 10:48:19.872 | DEBUG    | __main__:run_experiment:116 - 95-1-A:  Eagle
+2024-07-10 10:48:20.265 | DEBUG    | __main__:run_experiment:116 - 95-2-B:  Echidna
+2024-07-10 10:48:20.772 | DEBUG    | __main__:run_experiment:116 - 95-3-A:  Antlion
+2024-07-10 10:48:21.110 | DEBUG    | __main__:run_experiment:116 - 95-4-B:  Numbat
+2024-07-10 10:48:22.767 | DEBUG    | __main__:run_experiment:116 - 95-5-A:  Tiger 
+
+
+
+Let me know when you're ready for another round! 😊
+2024-07-10 10:48:22.778 | INFO     | __main__:run_experiment:134 - Experiment 95: Winner: Model B - A response too long (so not an animal)
+2024-07-10 10:48:22.787 | INFO     | __main__:run_experiments:170 - Running experiment 96
+2024-07-10 10:48:22.789 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:22.791 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:22.793 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:22.796 | DEBUG    | __main__:run_experiment:91 - 96-0-A:  Giraffe
+2024-07-10 10:48:23.165 | DEBUG    | __main__:run_experiment:116 - 96-1-A:  Elephant
+2024-07-10 10:48:23.707 | DEBUG    | __main__:run_experiment:116 - 96-2-B:  Tiger
+2024-07-10 10:48:24.132 | DEBUG    | __main__:run_experiment:116 - 96-3-A:  Rhino
+2024-07-10 10:48:24.472 | DEBUG    | __main__:run_experiment:116 - 96-4-B:  Ostrich
+2024-07-10 10:48:24.899 | DEBUG    | __main__:run_experiment:116 - 96-5-A:  Horse
+2024-07-10 10:48:25.330 | DEBUG    | __main__:run_experiment:116 - 96-6-B:  Echidna
+2024-07-10 10:48:25.863 | DEBUG    | __main__:run_experiment:116 - 96-7-A:  Alpaca
+2024-07-10 10:48:26.261 | DEBUG    | __main__:run_experiment:116 - 96-8-B:  Aardvark
+2024-07-10 10:48:26.691 | DEBUG    | __main__:run_experiment:116 - 96-9-A:  Koala
+2024-07-10 10:48:26.967 | DEBUG    | __main__:run_experiment:116 - 96-10-B:  Ape
+2024-07-10 10:48:27.395 | DEBUG    | __main__:run_experiment:116 - 96-11-A:  Elephant
+2024-07-10 10:48:27.994 | DEBUG    | __main__:run_experiment:116 - 96-12-B:  Disqualified Previous animal already mentioned.
+2024-07-10 10:48:28.003 | INFO     | __main__:run_experiment:128 - Experiment 96: Winner: Model B - A disqualified: Disqualified Previous animal already mentioned.
+2024-07-10 10:48:28.015 | INFO     | __main__:run_experiments:170 - Running experiment 97
+2024-07-10 10:48:28.019 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:28.021 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:28.023 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:28.025 | DEBUG    | __main__:run_experiment:91 - 97-0-A:  Giraffe
+2024-07-10 10:48:28.397 | DEBUG    | __main__:run_experiment:116 - 97-1-A:  Elephant
+2024-07-10 10:48:28.614 | DEBUG    | __main__:run_experiment:116 - 97-2-B:  Tiger
+2024-07-10 10:48:29.127 | DEBUG    | __main__:run_experiment:116 - 97-3-A:  Rhinoceros
+2024-07-10 10:48:29.470 | DEBUG    | __main__:run_experiment:116 - 97-4-B:  Sparrow
+2024-07-10 10:48:29.895 | DEBUG    | __main__:run_experiment:116 - 97-5-A:  Whale
+2024-07-10 10:48:30.300 | DEBUG    | __main__:run_experiment:116 - 97-6-B:  Echidna
+2024-07-10 10:48:30.892 | DEBUG    | __main__:run_experiment:116 - 97-7-A:  Aardvark
+2024-07-10 10:48:31.238 | DEBUG    | __main__:run_experiment:116 - 97-8-B:  Kangaroo
+2024-07-10 10:48:31.688 | DEBUG    | __main__:run_experiment:116 - 97-9-A:  Otter
+2024-07-10 10:48:32.097 | DEBUG    | __main__:run_experiment:116 - 97-10-B:  Rattlesnake
+2024-07-10 10:48:32.533 | DEBUG    | __main__:run_experiment:116 - 97-11-A:  Elephant
+2024-07-10 10:48:33.006 | DEBUG    | __main__:run_experiment:116 - 97-12-B:  Disqualified repeat animal.
+2024-07-10 10:48:33.014 | INFO     | __main__:run_experiment:128 - Experiment 97: Winner: Model B - A disqualified: Disqualified repeat animal.
+2024-07-10 10:48:33.026 | INFO     | __main__:run_experiments:170 - Running experiment 98
+2024-07-10 10:48:33.029 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:33.031 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:33.034 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:33.036 | DEBUG    | __main__:run_experiment:91 - 98-0-A:  Giraffe
+2024-07-10 10:48:33.415 | DEBUG    | __main__:run_experiment:116 - 98-1-A:  Elephant
+2024-07-10 10:48:33.632 | DEBUG    | __main__:run_experiment:116 - 98-2-B:  Tiger
+2024-07-10 10:48:34.225 | DEBUG    | __main__:run_experiment:116 - 98-3-A:  Rattlesnake
+2024-07-10 10:48:34.638 | DEBUG    | __main__:run_experiment:116 - 98-4-B:  Echidna
+2024-07-10 10:48:35.151 | DEBUG    | __main__:run_experiment:116 - 98-5-A:  AntEater
+2024-07-10 10:48:35.563 | DEBUG    | __main__:run_experiment:116 - 98-6-B:  Rhinoceros
+2024-07-10 10:48:36.004 | DEBUG    | __main__:run_experiment:116 - 98-7-A:  Squirrel
+2024-07-10 10:48:36.353 | DEBUG    | __main__:run_experiment:116 - 98-8-B:  Lemur
+2024-07-10 10:48:38.221 | DEBUG    | __main__:run_experiment:116 - 98-9-A:  Robin 
+
+
+
+Let me know when you're ready for another round!  🐦 😊
+2024-07-10 10:48:38.229 | INFO     | __main__:run_experiment:134 - Experiment 98: Winner: Model B - A response too long (so not an animal)
+2024-07-10 10:48:38.241 | INFO     | __main__:run_experiments:170 - Running experiment 99
+2024-07-10 10:48:38.245 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:38.247 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:38.248 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:38.250 | DEBUG    | __main__:run_experiment:91 - 99-0-A:  Giraffe
+2024-07-10 10:48:38.633 | DEBUG    | __main__:run_experiment:116 - 99-1-A:  Elephant
+2024-07-10 10:48:39.043 | DEBUG    | __main__:run_experiment:116 - 99-2-B:  Tiger
+2024-07-10 10:48:39.558 | DEBUG    | __main__:run_experiment:116 - 99-3-A:  Rooster
+2024-07-10 10:48:39.980 | DEBUG    | __main__:run_experiment:116 - 99-4-B:  Rattlesnake
+2024-07-10 10:48:40.538 | DEBUG    | __main__:run_experiment:116 - 99-5-A:  Eel
+2024-07-10 10:48:40.904 | DEBUG    | __main__:run_experiment:116 - 99-6-B:  Lemur
+2024-07-10 10:48:41.329 | DEBUG    | __main__:run_experiment:116 - 99-7-A:  Rat
+2024-07-10 10:48:41.606 | DEBUG    | __main__:run_experiment:116 - 99-8-B:  Tapir
+2024-07-10 10:48:42.114 | DEBUG    | __main__:run_experiment:116 - 99-9-A:  Rhinoceros
+2024-07-10 10:48:42.457 | DEBUG    | __main__:run_experiment:116 - 99-10-B:  Salamander
+2024-07-10 10:48:42.987 | DEBUG    | __main__:run_experiment:116 - 99-11-A:  Reindeer
+2024-07-10 10:48:43.343 | DEBUG    | __main__:run_experiment:116 - 99-12-B:  Raccoon
+2024-07-10 10:48:43.953 | DEBUG    | __main__:run_experiment:116 - 99-13-A:  Nighthawk
+2024-07-10 10:48:44.309 | DEBUG    | __main__:run_experiment:116 - 99-14-B:  Kangaroo
+2024-07-10 10:48:46.014 | DEBUG    | __main__:run_experiment:116 - 99-15-A:  Owl 
+
+
+
+Let me know when you're ready for another round! 😄
+2024-07-10 10:48:46.023 | INFO     | __main__:run_experiment:134 - Experiment 99: Winner: Model B - A response too long (so not an animal)
+2024-07-10 10:48:46.036 | INFO     | __main__:run_experiments:170 - Running experiment 100
+2024-07-10 10:48:46.038 | DEBUG    | __main__:run_experiments:171 - Models: gemma2:9b-instruct-q8_0 vs llama3:8b-instruct-q8_0
+2024-07-10 10:48:46.040 | DEBUG    | __main__:run_experiments:172 - Max turns: 200
+2024-07-10 10:48:46.042 | DEBUG    | __main__:run_experiments:173 - CSV file: data/1720579019/game_results.csv
+2024-07-10 10:48:46.044 | DEBUG    | __main__:run_experiment:91 - 100-0-A:  Giraffe
+2024-07-10 10:48:46.417 | DEBUG    | __main__:run_experiment:116 - 100-1-A:  Eagle
+2024-07-10 10:48:46.907 | DEBUG    | __main__:run_experiment:116 - 100-2-B:  Eel
+2024-07-10 10:48:47.344 | DEBUG    | __main__:run_experiment:116 - 100-3-A:  Lion
+2024-07-10 10:48:47.757 | DEBUG    | __main__:run_experiment:116 - 100-4-B:  Narwhal
+2024-07-10 10:48:48.191 | DEBUG    | __main__:run_experiment:116 - 100-5-A:  Llama
+2024-07-10 10:48:48.598 | DEBUG    | __main__:run_experiment:116 - 100-6-B:  Aardvark
+2024-07-10 10:48:49.034 | DEBUG    | __main__:run_experiment:116 - 100-7-A:  Koala
+2024-07-10 10:48:49.516 | DEBUG    | __main__:run_experiment:116 - 100-8-B:  Axiolotl
+2024-07-10 10:48:49.952 | DEBUG    | __main__:run_experiment:116 - 100-9-A:  Tiger
+2024-07-10 10:48:50.367 | DEBUG    | __main__:run_experiment:116 - 100-10-B:  Rattlesnake
+2024-07-10 10:48:50.805 | DEBUG    | __main__:run_experiment:116 - 100-11-A:  Elephant
+2024-07-10 10:48:51.086 | DEBUG    | __main__:run_experiment:116 - 100-12-B:  Tapir
+2024-07-10 10:48:51.605 | DEBUG    | __main__:run_experiment:116 - 100-13-A:  Rooster
+2024-07-10 10:48:52.018 | DEBUG    | __main__:run_experiment:116 - 100-14-B:  Rhinoceros
+2024-07-10 10:48:52.460 | DEBUG    | __main__:run_experiment:116 - 100-15-A:  Snake
+2024-07-10 10:48:52.877 | DEBUG    | __main__:run_experiment:116 - 100-16-B:  Echidna
+2024-07-10 10:48:54.253 | DEBUG    | __main__:run_experiment:116 - 100-17-A:  Axolotl 
+
+Disqualified (Animal already mentioned)
+2024-07-10 10:48:54.261 | INFO     | __main__:run_experiment:128 - Experiment 100: Winner: Model A - B disqualified: Axolotl 
+
+Disqualified (Animal already mentioned)
